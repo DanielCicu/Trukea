@@ -1,0 +1,5 @@
+aws cli instalar, revisar en amazon
+dar credenciales
+en aws details en la parte de cli se entregan las credenciales y meterlo en aws credentials
+
+aws s3
