@@ -1502,3 +1502,55 @@ body {
   left: 25px;
   overflow: hidden;
 }
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Noto+Serif&display=swap" rel="stylesheet" />
+        <link href="./css/main.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div class="v83_121">
+            <div class="v83_122"></div>
+            <span class="v83_123">Cliente</span>
+            <div class="v83_124"></div>
+            <div class="v83_125"></div>
+            <div class="v83_126"></div>
+            <div class="v83_127"></div>
+            <div class="v83_128"></div>
+            <div class="v83_129"></div>
+            <div class="v83_130"></div>
+            <div class="v83_131"></div>
+            <div class="v83_132"></div>
+            <div class="v83_133"></div>
+            <div class="v83_134"></div>
+            <div class="v83_135"></div>
+            <div class="v83_136"></div>
+            <span class="v83_137">Agregar destinatario</span>
+            <div class="v83_138"></div>
+            <span class="v83_139">Email</span>
+            <div class="v83_140"></div>
+            <div class="v83_141"></div>
+            <span class="v83_142">Número de documento</span>
+            <div class="v83_143"></div>
+            <div class="v83_144"></div>
+            <span class="v83_145">Tipo de documento</span>
+            <div class="v83_146"></div>
+            <span class="v83_147">Buscar</span>
+            <div class="name"></div>
+            <div class="v83_149"></div>
+            <div class="v83_150"></div>
+            <div class="v83_151"></div>
+            <div class="v83_152"></div>
+            <div class="v83_153"></div>
+            <span class="v83_154">Enviar</span>
+            <div class="v83_155"></div>
+            <span class="v83_156">Cancelar</span>
+            <span class="v83_157">Nombre:</span>
+            <span class="v83_158">Apellidos:</span>
+            <span class="v83_159">E-mail:</span>
+            <span class="v83_162">Monto en moneda destino:</span>
+            <span class="v83_163">Monto en moneda local:</span>
+            <span class="v83_164">Tarifa por la transacción:</span>
+        </div>
+    </body>
+</html>
