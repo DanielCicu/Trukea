@@ -3769,3 +3769,305 @@ body {
 .name {
   color: #fff;
 }
+
+.v32_2 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(146,162,254,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v49_151 {
+  width: 100%;
+  height: 771px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 210px;
+  left: 98px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v49_158 {
+  width: 100%;
+  height: 68px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 365px;
+  left: 116px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v32_7 {
+  width: 100%;
+  height: 115px;
+  background: rgba(39,24,126,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v32_8 {
+  width: 100px;
+  height: 100px;
+  background: url("../images/logo.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 25px;
+  overflow: hidden;
+}
+.v32_14 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/Icon\ casita.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 185px;
+  left: 25px;
+  overflow: hidden;
+}
+.v32_15 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/Icon\ lista\ de\ monedas2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 279px;
+  left: 25px;
+  overflow: hidden;
+}
+.v32_16 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/icon\ habilitar\ moneda.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 374px;
+  left: 25px;
+  overflow: hidden;
+}
+.v32_18 {
+  width: 424px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 32px;
+  left: 929px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v32_19 {
+  width: 80px;
+  height: 80px;
+  background: url("../images/usuario.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 1313px;
+  overflow: hidden;
+}
+.v33_24 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/votacion.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 562px;
+  left: 26px;
+  overflow: hidden;
+}
+.v33_43 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/embudo-dolar.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 468px;
+  left: 25px;
+  overflow: hidden;
+}
+.v42_35 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/editar_moneda1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 738px;
+  left: 25px;
+  overflow: hidden;
+}
+.v49_154 {
+  width: 602px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 238px;
+  left: 470px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v49_155 {
+  width: 602px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 257px;
+  left: 470px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v49_156 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 380px;
+  left: 266px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v49_157 {
+  width: 257px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 365px;
+  left: 416px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v49_179 {
+  width: 173px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 380px;
+  left: 930px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v49_183 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 365px;
+  left: 1103px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v49_184 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 365px;
+  left: 1253px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v49_177 {
+  width: 257px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 365px;
+  left: 673px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v49_159 {
+  width: 100%;
+  height: 521px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 447px;
+  left: 116px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v49_163 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 380px;
+  left: 116px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v72_18 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/agregar2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 650px;
+  left: 25px;
+  overflow: hidden;
+}
