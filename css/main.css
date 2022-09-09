@@ -2941,3 +2941,276 @@ body {
   left: 26px;
   overflow: hidden;
 }
+.v51_320 {
+  width: 100%;
+  height: 958px;
+  background: rgba(146,162,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v51_321 {
+  width: 100%;
+  height: 115px;
+  background: rgba(39,24,126,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v69_10 {
+  width: 240px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 32px;
+  left: 1073px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v69_9 {
+  width: 80px;
+  height: 80px;
+  background: url("../images/cliente.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 18px;
+  left: 1313px;
+  overflow: hidden;
+}
+.v51_322 {
+  width: 100px;
+  height: 100px;
+  background: url("../images/TRUKEAsolologo.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 25px;
+  overflow: hidden;
+}
+.v51_323 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/Icon\ casita.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 185px;
+  left: 25px;
+  overflow: hidden;
+}
+.v69_323 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/enviar_dinero1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 279px;
+  left: 25px;
+  overflow: hidden;
+}
+.v69_324 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/votacion.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 373px;
+  left: 25px;
+  overflow: hidden;
+}
+.v69_333 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/consultar_transaccion2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 467px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_33 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/agregar-usuario.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 655px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_34 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/borrar-usuario.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 561px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_36 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/agregar2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 749px;
+  left: 25px;
+  overflow: hidden;
+}
+.v83_3 {
+  width: 100%;
+  height: 175px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 342px;
+  left: 111px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_4 {
+  width: 602px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 190px;
+  left: 454px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_5 {
+  width: 602px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 190px;
+  left: 465px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_6 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 342px;
+  left: 261px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_7 {
+  width: 257px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 342px;
+  left: 411px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_8 {
+  width: 173px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 342px;
+  left: 925px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_9 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 342px;
+  left: 1098px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_10 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 342px;
+  left: 1248px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_11 {
+  width: 257px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 342px;
+  left: 668px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_12 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 342px;
+  left: 111px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
