@@ -1502,55 +1502,522 @@ body {
   left: 25px;
   overflow: hidden;
 }
-<!DOCTYPE html>
-<html>
-    <head>
-        <link href="https://fonts.googleapis.com/css?family=Noto+Serif&display=swap" rel="stylesheet" />
-        <link href="./css/main.css" rel="stylesheet" />
-    </head>
-    <body>
-        <div class="v83_121">
-            <div class="v83_122"></div>
-            <span class="v83_123">Cliente</span>
-            <div class="v83_124"></div>
-            <div class="v83_125"></div>
-            <div class="v83_126"></div>
-            <div class="v83_127"></div>
-            <div class="v83_128"></div>
-            <div class="v83_129"></div>
-            <div class="v83_130"></div>
-            <div class="v83_131"></div>
-            <div class="v83_132"></div>
-            <div class="v83_133"></div>
-            <div class="v83_134"></div>
-            <div class="v83_135"></div>
-            <div class="v83_136"></div>
-            <span class="v83_137">Agregar destinatario</span>
-            <div class="v83_138"></div>
-            <span class="v83_139">Email</span>
-            <div class="v83_140"></div>
-            <div class="v83_141"></div>
-            <span class="v83_142">Número de documento</span>
-            <div class="v83_143"></div>
-            <div class="v83_144"></div>
-            <span class="v83_145">Tipo de documento</span>
-            <div class="v83_146"></div>
-            <span class="v83_147">Buscar</span>
-            <div class="name"></div>
-            <div class="v83_149"></div>
-            <div class="v83_150"></div>
-            <div class="v83_151"></div>
-            <div class="v83_152"></div>
-            <div class="v83_153"></div>
-            <span class="v83_154">Enviar</span>
-            <div class="v83_155"></div>
-            <span class="v83_156">Cancelar</span>
-            <span class="v83_157">Nombre:</span>
-            <span class="v83_158">Apellidos:</span>
-            <span class="v83_159">E-mail:</span>
-            <span class="v83_162">Monto en moneda destino:</span>
-            <span class="v83_163">Monto en moneda local:</span>
-            <span class="v83_164">Tarifa por la transacción:</span>
-        </div>
-    </body>
-</html>
+.v83_121 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(146,162,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v83_122 {
+  width: 100%;
+  height: 115px;
+  background: rgba(39,24,126,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v83_123 {
+  width: 240px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 32px;
+  left: 1073px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_124 {
+  width: 80px;
+  height: 80px;
+  background: url("../images/cliente.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 18px;
+  left: 1313px;
+  overflow: hidden;
+}
+.v83_125 {
+  width: 100px;
+  height: 100px;
+  background: url("../images/TRUKEAsolologo.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 25px;
+  overflow: hidden;
+}
+.v83_126 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/Icon\ casita.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 185px;
+  left: 25px;
+  overflow: hidden;
+}
+.v83_127 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/enviar_dinero2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 284px;
+  left: 25px;
+  overflow: hidden;
+}
+.v83_128 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/votacion.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 378px;
+  left: 25px;
+  overflow: hidden;
+}
+.v83_129 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/borrar-usuario.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 566px;
+  left: 25px;
+  overflow: hidden;
+}
+.v83_130 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/agregar2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 754px;
+  left: 25px;
+  overflow: hidden;
+}
+
+.v83_132 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/borrar-usuario.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 660px;
+  left: 25px;
+  overflow: hidden;
+}
+.v83_133 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/consultar_transaccion1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 472px;
+  left: 25px;
+  overflow: hidden;
+}
+.v83_134 {
+  width: 987px;
+  height: 531px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 194px;
+  left: 295px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_135 {
+  width: 291px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 530px;
+  left: 331px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_136 {
+  width: 602px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 228px;
+  left: 488px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_137 {
+  width: 602px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 228px;
+  left: 488px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_138 {
+  width: 291px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 387px;
+  left: 331px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_139 {
+  width: 291px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 387px;
+  left: 331px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_140 {
+  width: 291px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 530px;
+  left: 955px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_141 {
+  width: 291px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 387px;
+  left: 955px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_142 {
+  width: 291px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 390px;
+  left: 955px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_143 {
+  width: 291px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 530px;
+  left: 643px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_144 {
+  width: 291px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 387px;
+  left: 643px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_145 {
+  width: 291px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 387px;
+  left: 643px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_146 {
+  width: 271px;
+  height: 86px;
+  background: rgba(255,155,44,1);
+  opacity: 1;
+  position: absolute;
+  top: 796px;
+  left: 653px;
+  border: 4px solid rgba(255,134,0,1);
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  overflow: hidden;
+}
+.v83_147 {
+  width: 271px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 796px;
+  left: 653px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.v83_149 {
+  width: 232px;
+  height: 50px;
+  background: rgba(217,217,217,0.699999988079071);
+  opacity: 1;
+  position: absolute;
+  top: 554px;
+  left: 361px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v83_150 {
+  width: 232px;
+  height: 50px;
+  background: rgba(217,217,217,0.699999988079071);
+  opacity: 1;
+  position: absolute;
+  top: 554px;
+  left: 985px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v83_151 {
+  width: 100%;
+  height: 100%;
+  background: rgba(51,51,51,0.6000000238418579);
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  overflow: hidden;
+}
+.v83_152 {
+  width: 987px;
+  height: 540px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 185px;
+  left: 295px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v83_153 {
+  width: 271px;
+  height: 86px;
+  background: rgba(255,155,44,1);
+  opacity: 1;
+  position: absolute;
+  top: 584px;
+  left: 449px;
+  border: 4px solid rgba(255,134,0,1);
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  overflow: hidden;
+}
+.v83_154 {
+  width: 271px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 584px;
+  left: 449px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_155 {
+  width: 271px;
+  height: 86px;
+  background: rgba(255,155,44,1);
+  opacity: 1;
+  position: absolute;
+  top: 584px;
+  left: 893px;
+  border: 4px solid rgba(255,134,0,1);
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  overflow: hidden;
+}
+.v83_156 {
+  width: 271px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 584px;
+  left: 893px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v83_157 {
+  width: 272px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 228px;
+  left: 357px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v83_158 {
+  width: 272px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 325px;
+  left: 348px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v83_159 {
+  width: 272px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 424px;
+  left: 348px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v83_162 {
+  width: 272px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 325px;
+  left: 772px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v83_163 {
+  width: 272px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 228px;
+  left: 772px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v83_164 {
+  width: 272px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 424px;
+  left: 772px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
