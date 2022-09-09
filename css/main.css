@@ -5602,3 +5602,313 @@ body {
   left: 25px;
   overflow: hidden;
 }
+.v72_66 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(146,162,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v72_71 {
+  width: 100%;
+  height: 115px;
+  background: rgba(39,24,126,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v72_72 {
+  width: 240px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 32px;
+  left: 1073px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v72_73 {
+  width: 80px;
+  height: 80px;
+  background: url("../images/cliente.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 18px;
+  left: 1313px;
+  overflow: hidden;
+}
+.v72_74 {
+  width: 100px;
+  height: 100px;
+  background: url("../images/TRUKEAsolologo.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_96 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/Icon\ casita.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 156px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_97 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/enviar_dinero1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 255px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_98 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/votacion.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 349px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_99 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/agregar-usuario.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 631px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_100 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/borrar-usuario.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 537px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_102 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/consultar_transaccion1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 443px;
+  left: 25px;
+  overflow: hidden;
+}
+.v72_104 {
+  width: 50px;
+  height: 50px;
+  background: url("../images/agregar1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 725px;
+  left: 25px;
+  overflow: hidden;
+}
+.v84_169 {
+  width: 987px;
+  height: 531px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 206px;
+  left: 285px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v84_170 {
+  width: 358px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 563px;
+  left: 382px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v84_171 {
+  width: 358px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 563px;
+  left: 818px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v84_172 {
+  width: 358px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 420px;
+  left: 818px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v84_173 {
+  width: 602px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 240px;
+  left: 478px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v84_174 {
+  width: 373px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 272px;
+  left: 592px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v84_175 {
+  width: 358px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 420px;
+  left: 818px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v84_176 {
+  width: 358px;
+  height: 97px;
+  background: rgba(217,217,217,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 420px;
+  left: 382px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  overflow: hidden;
+}
+.v84_177 {
+  width: 358px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 420px;
+  left: 382px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v84_178 {
+  width: 271px;
+  height: 86px;
+  background: rgba(255,155,44,1);
+  opacity: 1;
+  position: absolute;
+  top: 812px;
+  left: 643px;
+  border: 4px solid rgba(255,134,0,1);
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  overflow: hidden;
+}
+.v84_179 {
+  width: 271px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 812px;
+  left: 643px;
+  font-family: Noto Serif;
+  font-weight: SemiBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v84_180 {
+  width: 232px;
+  height: 50px;
+  background: rgba(217,217,217,0.699999988079071);
+  opacity: 1;
+  position: absolute;
+  top: 587px;
+  left: 445px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
